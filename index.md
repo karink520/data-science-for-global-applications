@@ -50,7 +50,7 @@ or not?
 
 ### Project
 
-  - Project Check-in: Policy Question
+  - [Project Check-in: Policy Question](policy_question.md)
   - Project Check-in: Identifying Datasets of Interest
   - Project Check-in: Data Audit
   - Project Check-in: Draft Data Visualization

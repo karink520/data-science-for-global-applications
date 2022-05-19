@@ -36,7 +36,7 @@ or not?
 - [Introduction to Dataframes](https://colab.research.google.com/drive/1wWRIlHSSAqgX0HWf4dF_kRZ5YLYHtdbf?usp=sharing)
 - [Data Preparation with Python](https://colab.research.google.com/drive/1wWRIlHSSAqgX0HWf4dF_kRZ5YLYHtdbf?usp=sharing) and [Sample Solutions](https://colab.research.google.com/drive/1PTBGxQQZWCj7yRkUlmAL64CrA0qMLnbd?usp=sharing)
 - [Loading data in Jupyter](https://drive.google.com/file/d/15Cvqydx_--t-K3y0VUn8_7xOM5nfkR1t/view?usp=sharing)
-- [Classic Charts with Matplotlib] (https://colab.research.google.com/drive/1-UU6SiDJ3_HhqwH0H9NJylZ-Vllt0TKB?usp=sharing)
+- [Classic Charts with Matplotlib](https://colab.research.google.com/drive/1-UU6SiDJ3_HhqwH0H9NJylZ-Vllt0TKB?usp=sharing)
 
 
 ### Python excercises

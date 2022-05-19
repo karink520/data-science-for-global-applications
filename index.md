@@ -46,7 +46,7 @@ or not?
 
 ### Readings and journal prompts
 
-[Readings and journal prompts](journal_prompts.md)
+[Readings and journal prompts](journal-prompts.md)
 
 ### Project
 

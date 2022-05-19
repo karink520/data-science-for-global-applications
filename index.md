@@ -46,13 +46,15 @@ or not?
 
 ### Readings and journal prompts
 
-[Readings and journal prompts](journal-prompts.md)
+[Readings and journal prompts](journal_prompts.md)
 
 ### Project
 
-  - Check-in 1
-  - Check-in 2
-  - [Rubric](index.md)
+  - Project Check-in: Policy Question
+  - Project Check-in: Identifying Datasets of Interest
+  - Project Check-in: Data Audit
+  - Project Check-in: Draft Data Visualization
+  - [Final Submission Assigment and Rubric](project_assigment_and_rubric.md)
 
 
 

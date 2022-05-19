@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Data Science for Global Applications
 
-You can use the [editor on GitHub](https://github.com/karink520/data-science-for-global-applications/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dr. Anna Haensch and Dr. Karin Knudson
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This course provides an overview of the principles and applications of data science. The first part of the
+course deals with the acquisition and handling of data, with an emphasis on contextualizing data and framing
+data analysis. The second part of the course will focus on tools and techniques for data manipulation and
+visualization. The third part of the course will introduce students to several methods for modeling data.
+The course will present both theoretical frame-works and practical tools for implementing various algorithms
+for regression, classification, and clustering. Students will become proficient in Python based tools for data
+analysis including numpy, pandas, and scikit-learn. 
 
-### Markdown
+### Essential Questions
+The organizing questions for the three sections of the
+course are:
+1. Getting and Cleaning Data
+•Where does data come from and how do we make it useful?
+•What is data?
+•How do the tools we use obscure the data or help us understand the data more deeply?
+•What are the human choices involved with analyzing and presenting data?
+2. Visualizing Data and Communicating Findings
+•What are the human choices involved with analyzing and presenting data?
+•How can data analysis and visualization inform policy? How can it mislead?
+•How can we communicate effectively about data (with different audiences)?
+•How do the tools we use obscure the data or help us understand the data more deeply?
+3. Modeling Data
+•How do we validate modeling choices? Once I build a model, how do I know whether it’s good
+or not?
+•Why do we model data? What can models help us to achieve or learn?
+•What kinds of assumptions do we make when we build a model? How can models mislead?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Semester schdedule
 
-```markdown
-Syntax highlighted code block
+## Materials
 
-# Header 1
-## Header 2
-### Header 3
+### Notebooks for in-class demos and exercises
 
-- Bulleted
-- List
+### Python excercises
 
-1. Numbered
-2. List
+### Project
 
-**Bold** and _Italic_ and `Code` text
+  - Check-in 1
+  - Check-in 2
+  - [Rubric](index.md)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karink520/data-science-for-global-applications/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

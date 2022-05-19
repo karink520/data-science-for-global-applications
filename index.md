@@ -58,8 +58,8 @@ or not?
 
 ### Project
 
-  - [Project Check-in: Policy Question](policy_question.md)
-  - Project Check-in: Identifying Datasets of Interest
+  - [Project Check-in: Policy Question](policy_question)
+  - [Project Check-in: Identifying Datasets of Interest](datasets_of_interest)
   - Project Check-in: Data Audit
   - Project Check-in: Draft Data Visualization
   - [Final Submission Assigment and Rubric](project_assigment_and_rubric)

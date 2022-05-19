@@ -46,7 +46,7 @@ or not?
 
 ### Readings and journal prompts
 
-[Readings and journal prompts](journal-prompts.md)
+[Readings and journal prompts](journal-prompts)
 
 ### Project
 
@@ -54,7 +54,7 @@ or not?
   - Project Check-in: Identifying Datasets of Interest
   - Project Check-in: Data Audit
   - Project Check-in: Draft Data Visualization
-  - [Final Submission Assigment and Rubric](project_assigment_and_rubric.md)
+  - [Final Submission Assigment and Rubric](project_assigment_and_rubric)
 
 
 

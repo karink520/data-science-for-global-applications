@@ -26,7 +26,7 @@ or not?
 - Why do we model data? What can models help us to achieve or learn?
 - What kinds of assumptions do we make when we build a model? How can models mislead?
 
-### Semester schdedule
+## Semester schdedule
 
 ## Materials
 
@@ -39,10 +39,14 @@ or not?
 - [Classic Charts with Matplotlib](https://colab.research.google.com/drive/1-UU6SiDJ3_HhqwH0H9NJylZ-Vllt0TKB?usp=sharing)
 
 
-### Python excercises
+### Python exercises
 - [Exercise: Exploratory Data Analysis in Python](https://colab.research.google.com/drive/1CAP_k6HF88O-19wngS_5x2KN7Sfiwypo)
 - [Exercise: Data Visualization in Python](https://colab.research.google.com/drive/14WX9amWra-ChZj_PO6J37zrFc_sDRQ0J?usp=sharing)
 - [Exercise: Clustering, Regression, and Classification with Python](https://colab.research.google.com/drive/18yqgvYmSoe6RKHjf_B4Sgb-J0CL4UwUX?usp=sharing)
+
+### Readings and journal prompts
+
+[Readings and journal prompts](journal_prompts.md)
 
 ### Project
 

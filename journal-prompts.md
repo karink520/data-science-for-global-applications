@@ -1,3 +1,5 @@
+# Journal Prompts and List of Readings
+
 **The prompt for the reading journal entries in the first and third section of the course is as follows:**
 
 Please submit a journal entry reflecting on the reading 

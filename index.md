@@ -41,6 +41,8 @@ or not?
 
 ### Python excercises
 - [Exercise: Exploratory Data Analysis in Python](https://colab.research.google.com/drive/1CAP_k6HF88O-19wngS_5x2KN7Sfiwypo)
+- [Exercise: Data Visualization in Python](https://colab.research.google.com/drive/14WX9amWra-ChZj_PO6J37zrFc_sDRQ0J?usp=sharing)
+- [Exercise: Clustering, Regression, and Classification with Python](https://colab.research.google.com/drive/18yqgvYmSoe6RKHjf_B4Sgb-J0CL4UwUX?usp=sharing)
 
 ### Project
 

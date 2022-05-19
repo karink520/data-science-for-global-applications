@@ -1,6 +1,3 @@
-# Data Science for Global Applications
-
-Dr. Anna Haensch and Dr. Karin Knudson
 
 This course provides an overview of the principles and applications of data science. The first part of the
 course deals with the acquisition and handling of data, with an emphasis on contextualizing data and framing
@@ -35,7 +32,15 @@ or not?
 
 ### Notebooks for in-class demos and exercises
 
+- [Introduction to Python Basics](https://colab.research.google.com/drive/1zok05G-2A9_UzmkIIWT_anl2dvps__M0?usp=sharing)
+- [Introduction to Dataframes](https://colab.research.google.com/drive/1wWRIlHSSAqgX0HWf4dF_kRZ5YLYHtdbf?usp=sharing)
+- [Data Preparation with Python](https://colab.research.google.com/drive/1wWRIlHSSAqgX0HWf4dF_kRZ5YLYHtdbf?usp=sharing) and [Sample Solutions](https://colab.research.google.com/drive/1PTBGxQQZWCj7yRkUlmAL64CrA0qMLnbd?usp=sharing)
+- [Loading data in Jupyter](https://drive.google.com/file/d/15Cvqydx_--t-K3y0VUn8_7xOM5nfkR1t/view?usp=sharing)
+- [Classic Charts with Matplotlib] (https://colab.research.google.com/drive/1-UU6SiDJ3_HhqwH0H9NJylZ-Vllt0TKB?usp=sharing)
+
+
 ### Python excercises
+- [Exercise: Exploratory Data Analysis in Python](https://colab.research.google.com/drive/1CAP_k6HF88O-19wngS_5x2KN7Sfiwypo)
 
 ### Project
 

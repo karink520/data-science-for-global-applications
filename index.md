@@ -60,8 +60,8 @@ or not?
 
   - [Project Check-in: Policy Question](policy_question)
   - [Project Check-in: Identifying Datasets of Interest](datasets_of_interest)
-  - Project Check-in: Data Audit
-  - Project Check-in: Draft Data Visualization
+  - [Project Check-in: Data Audit](data_audit)
+  - [Project Check-in: Draft Data Visualization](draft_data_visualization)
   - [Final Submission Assigment and Rubric](project_assigment_and_rubric)
 
 

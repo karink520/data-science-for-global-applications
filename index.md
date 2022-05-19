@@ -11,20 +11,20 @@ analysis including numpy, pandas, and scikit-learn.
 The organizing questions for the three sections of the
 course are:
 1. Getting and Cleaning Data
-•Where does data come from and how do we make it useful?
-•What is data?
-•How do the tools we use obscure the data or help us understand the data more deeply?
-•What are the human choices involved with analyzing and presenting data?
+- Where does data come from and how do we make it useful?
+- What is data?
+- How do the tools we use obscure the data or help us understand the data more deeply?
+- What are the human choices involved with analyzing and presenting data?
 2. Visualizing Data and Communicating Findings
-•What are the human choices involved with analyzing and presenting data?
-•How can data analysis and visualization inform policy? How can it mislead?
-•How can we communicate effectively about data (with different audiences)?
-•How do the tools we use obscure the data or help us understand the data more deeply?
+- What are the human choices involved with analyzing and presenting data?
+- How can data analysis and visualization inform policy? How can it mislead?
+- How can we communicate effectively about data (with different audiences)?
+- How do the tools we use obscure the data or help us understand the data more deeply?
 3. Modeling Data
-•How do we validate modeling choices? Once I build a model, how do I know whether it’s good
+- How do we validate modeling choices? Once I build a model, how do I know whether it’s good
 or not?
-•Why do we model data? What can models help us to achieve or learn?
-•What kinds of assumptions do we make when we build a model? How can models mislead?
+- Why do we model data? What can models help us to achieve or learn?
+- What kinds of assumptions do we make when we build a model? How can models mislead?
 
 ### Semester schdedule
 

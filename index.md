@@ -28,6 +28,8 @@ or not?
 
 ## Semester schdedule
 
+![Course schedule](Fletcher_Class_Outline.png)
+
 ## Materials
 
 [Instructions](https://karinknudson.com/python_setup.pdf) for getting set up with Python, Jupyter and conda on your own computer

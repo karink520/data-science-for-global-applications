@@ -28,7 +28,7 @@ or not?
 
 ## Semester schdedule
 
-![Course schedule](Fletcher_Class_Outline.png)
+![Course schedule](Fletcher_Course_Outline.png)
 
 ## Materials
 

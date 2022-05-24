@@ -39,7 +39,6 @@ or not?
 - [Introduction to Python Basics](https://colab.research.google.com/drive/1zok05G-2A9_UzmkIIWT_anl2dvps__M0?usp=sharing)
 - [Introduction to Dataframes](https://colab.research.google.com/drive/1F4PbNbznY_p6X4vdy-e7uZ2LN7u-yv1h?usp=sharing)
 - [Data Preparation with Python](https://colab.research.google.com/drive/1wWRIlHSSAqgX0HWf4dF_kRZ5YLYHtdbf?usp=sharing) and [Sample Solutions](https://colab.research.google.com/drive/1PTBGxQQZWCj7yRkUlmAL64CrA0qMLnbd?usp=sharing)
-- [Loading data in Jupyter](https://drive.google.com/file/d/15Cvqydx_--t-K3y0VUn8_7xOM5nfkR1t/view?usp=sharing)
 - [Classic Charts with Matplotlib](https://colab.research.google.com/drive/1-UU6SiDJ3_HhqwH0H9NJylZ-Vllt0TKB?usp=sharing) and [Sample Solutions](https://colab.research.google.com/drive/1u72oiWHIIxfqeSoH3RM_-ZlY-DXvZM8U#scrollTo=NV1g9QdthpSs)
 - [Maps with Python](https://colab.research.google.com/drive/1R4ekzzVhbasFSJ1OQsDNdrn_uI7NQkov?usp=sharing#scrollTo=BKRaBYdB836u)
 - [Radial Charts with Python](https://colab.research.google.com/drive/1BVURjLt88Gm55xrTq1r4AS2sMo9cC-Ee?usp=sharing)

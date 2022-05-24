@@ -26,7 +26,7 @@ or not?
 - Why do we model data? What can models help us to achieve or learn?
 - What kinds of assumptions do we make when we build a model? How can models mislead?
 
-## Semester schdedule
+## Semester schedule
 
 ![Course schedule](Fletcher_Course_Outline.png)
 
